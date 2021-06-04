@@ -1,0 +1,5 @@
+discord
+pydrive
+validators
+aiohttp
+requests
